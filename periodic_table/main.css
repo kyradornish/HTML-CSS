@@ -1,0 +1,31 @@
+td {
+  border: 1px solid black;
+  padding: 10px;
+  font-size: 10px;
+}
+
+table {
+  margin: auto;
+  table-layout: fixed;
+  width: 100%;
+}
+
+.noborder {
+  border: none;
+}
+
+.num {
+  text-align: left;
+}
+
+.elem, .longelem, .atomic {
+  text-align: center;
+}
+
+.elem {
+  font-size: 14px;
+}
+
+.table2 {
+  margin-top: 10px;
+}

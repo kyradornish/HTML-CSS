@@ -1,0 +1,23 @@
+body {
+  overflow-x: hidden;
+}
+
+.navbar {
+  border-radius: 0px;
+}
+
+.red-background {
+  background-color: red;
+}
+
+.black-background {
+  background-color: black;
+}
+
+footer {
+  background-color: green;
+  overflow: auto;
+}
+.add-padding {
+  padding: 15px 0;
+}

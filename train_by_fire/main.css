@@ -1,0 +1,76 @@
+body{
+  overflow-x: hidden;
+}
+
+.header {
+  background-color: black;
+  padding: 25px;
+}
+
+.navbar {
+  border-radius: 0;
+  padding: 7px;
+  background-color: #ef472c;
+  border: none;
+  margin-bottom: 0;
+}
+
+.navbar-inverse .navbar-nav>li>a:link{
+  color: white;
+}
+.navbar-inverse .navbar-nav>li>a:visited{
+  color: white;
+}
+.navbar-inverse .navbar-nav>li>a:hover{
+  color: black;
+}
+
+.float-right{
+  float: right;
+}
+
+.logo {
+  images: url(https://trainbyfire.com/wp-content/themes/trainbyfire/images/logo.png);
+}
+
+.slides{
+  padding: 0;
+}
+
+.carousel-inner img{
+  width: 100%;
+}
+
+.products{
+  margin-top: 50px;
+  font-size: 20px;
+  margin-right: 0;
+}
+
+.products a:link{
+  text-decoration: none;
+  color: black;
+}
+
+.products a:visited{
+  text-decoration: none;
+  color: black;
+}
+
+.products a:hover{
+  text-decoration: none;
+  color: red;
+}
+
+.footer{
+  background-color: #c5c2bd;;
+  margin-right: 0;
+  border-top: 2px solid black;
+  margin-top: 50px;
+  padding-top: 25px;
+  padding-bottom: 75px;
+}
+
+.footer ul{
+  list-style-type: none;
+}
